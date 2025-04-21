@@ -1,0 +1,62 @@
+ Art students 
+Art student: 1
+First Name: John
+Last Name: Sanchez
+GPA: 3.9
+Emphasis: Art History
+
+Art student: 2
+First Name: Jackson
+Last Name: Clark
+GPA: 3.1
+Emphasis: Art History
+
+Art student: 3
+First Name: Cameron
+Last Name: Smith
+GPA: 3.8
+Emphasis: Art Education
+
+Art student: 4
+First Name: Ellie
+Last Name: Miller
+GPA: 3.4
+Emphasis: Art History
+
+Art student: 5
+First Name: Noah
+Last Name: Smith
+GPA: 3.5
+Emphasis: Art History
+
+ Physics students 
+Physics student: 1
+First Name: Noah
+Last Name: Smith
+GPA: 3.5
+Concentration: BioPhysics
+
+Physics student: 2
+First Name: Ellie
+Last Name: Miller
+GPA: 3.4
+Concentration: BioPhysics
+
+Physics student: 3
+First Name: Cameron
+Last Name: Smith
+GPA: 3.8
+Concentration: Earth and Planetary Sciences
+
+Physics student: 4
+First Name: Jackson
+Last Name: Clark
+GPA: 3.1
+Concentration: BioPhysics
+
+Physics student: 5
+First Name: John
+Last Name: Sanchez
+GPA: 3.9
+Concentration: BioPhysics
+
